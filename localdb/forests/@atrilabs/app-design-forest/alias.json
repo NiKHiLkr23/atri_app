@@ -1,0 +1,12 @@
+{
+  "Flex": 101,
+  "Div": 20,
+  "TextBox": 120,
+  "Image": 64,
+  "Link": 5,
+  "Button": 18,
+  "Breadcrumb": 1,
+  "Input": 8,
+  "Form": 1,
+  "UnorderedList": 1
+}

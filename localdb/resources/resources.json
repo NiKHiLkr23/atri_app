@@ -1,0 +1,20 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&family=Roboto:ital@1&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Roboto",
+          "fontStyle": "italic",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Roboto Slab",
+          "fontStyle": "normal",
+          "fontWeight": 100
+        }
+      ]
+    }
+  }
+]
